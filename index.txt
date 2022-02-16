@@ -1,0 +1,2 @@
+ git config --global user.email "admin@87th.cn"
+ git config --global user.name "wht"
